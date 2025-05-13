@@ -41,3 +41,22 @@ You can try the deployed model live on Hugging Face Spaces:
 -  Improve performance in adverse weather
 -  Integrate with driving simulators
 
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+If you find a bug or have an enhancement idea, feel free to:
+
+1. **Fork** the repository  
+2. **Create a new branch** for your feature or fix  
+3. **Commit** your changes  
+4. **Submit a Pull Request**
+
+Thank you for helping improve the project! 🚀
