@@ -41,9 +41,3 @@ You can try the deployed model live on Hugging Face Spaces:
 -  Improve performance in adverse weather
 -  Integrate with driving simulators
 
----
-
-## 👨‍💻 Contributors
--  Omar Fathy (me)
--  Mohamed Sayed
--  Habiba Mohamed
